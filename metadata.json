@@ -1,0 +1,5 @@
+{
+  "name": "Générateur de Boîte d'Erreur Windows 10",
+  "description": "Une application amusante pour créer de fausses boîtes de dialogue d'erreur de style Windows 10 avec des messages et des icônes personnalisables.",
+  "requestFramePermissions": []
+}
